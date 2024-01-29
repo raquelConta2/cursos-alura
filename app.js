@@ -15,6 +15,7 @@ function exibirMensagemInicial() {
 }
 
 exibirMensagemInicial();
+// teste stash
 
 function verificarChute() {
     let chute = document.querySelector('input').value;
